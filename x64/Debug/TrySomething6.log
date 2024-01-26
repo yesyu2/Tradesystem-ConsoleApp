@@ -1,0 +1,7 @@
+﻿  TrySomething6.cpp
+C:\Users\HP\Desktop\C++MasterClass\TrySomething6\TrySomething6.cpp(65,21): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\HP\Desktop\C++MasterClass\TrySomething6\TrySomething6.cpp(66,16): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\HP\Desktop\C++MasterClass\TrySomething6\TrySomething6.cpp(67,20): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\HP\Desktop\C++MasterClass\TrySomething6\TrySomething6.cpp(68,18): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\HP\Desktop\C++MasterClass\TrySomething6\TrySomething6.cpp(69,21): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  TrySomething6.vcxproj -> C:\Users\HP\Desktop\C++MasterClass\TrySomething6\x64\Debug\TrySomething6.exe
